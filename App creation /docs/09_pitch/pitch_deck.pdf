@@ -1,0 +1,100 @@
+PITCH DECK – GAMITY
+
+────────────────────────────
+PROBLEM
+────────────────────────────
+
+Jouer en ligne repose de plus en plus sur la coopération, que ce soit dans des jeux compétitifs ou coopératifs.
+Pourtant, trouver des coéquipiers réellement compatibles reste un problème majeur pour une grande partie des joueurs.
+
+Les solutions actuellement disponibles présentent plusieurs limites.
+Le matchmaking intégré aux jeux est souvent aléatoire et ne prend pas en compte les objectifs,
+la mentalité ou la disponibilité des joueurs.
+Il est également difficile de trouver des partenaires ayant un niveau ou une implication similaire.
+
+Les outils externes existants, comme les forums, les serveurs Discord ou les réseaux sociaux,
+sont dispersés, peu structurés et demandent un investissement important pour être efficaces.
+
+Ces difficultés entraînent frustration, perte de motivation
+et empêchent la création de groupes stables et durables,
+pourtant essentiels à une bonne expérience de jeu.
+
+────────────────────────────
+TARGET USERS
+────────────────────────────
+
+La plateforme s’adresse à des joueurs souhaitant améliorer leur expérience de jeu en équipe.
+
+Elle cible notamment :
+– des joueurs occasionnels cherchant des coéquipiers fiables pour des sessions ponctuelles
+– des joueurs réguliers souhaitant organiser leurs parties de manière plus structurée
+– des communautés de jeux coopératifs ou compétitifs cherchant à recruter ou compléter leurs équipes
+
+Le produit est pensé pour être accessible, intuitif et inclusif,
+sans nécessiter de connaissances techniques ou l’utilisation d’outils communautaires complexes.
+
+────────────────────────────
+CONCEPT
+────────────────────────────
+
+Gamity est une plateforme centralisée de mise en relation entre joueurs,
+indépendante des jeux eux-mêmes.
+
+Elle permet aux utilisateurs de consulter des annonces de recherche de coéquipiers organisées par jeu,
+de créer rapidement leur propre demande en définissant leurs besoins essentiels,
+et d’échanger avec d’autres joueurs via des espaces dédiés et structurés,
+comme un forum communautaire ou un chat temporaire lié à une annonce.
+
+L’objectif est de proposer un outil simple et clair permettant de trouver des teammates
+de manière proactive, avant même de lancer une partie,
+tout en favorisant des interactions plus qualitatives et pertinentes.
+
+────────────────────────────
+UX WALKTHROUGH
+────────────────────────────
+
+Le parcours utilisateur a été conçu pour être fluide et compréhensible dès la première utilisation.
+
+L’utilisateur arrive sur la page principale de l’application,
+où sont affichées les annonces de recherche de coéquipiers.
+Il peut naviguer librement entre les différentes sections de la plateforme :
+recherche de teammates, forum et page de clips.
+
+Il applique ensuite des filtres simples afin d’affiner les annonces selon ses critères,
+tels que le jeu, la disponibilité ou le type de session.
+Il peut également créer une annonce de recherche d’équipe en quelques étapes.
+
+En attendant des réponses, l’utilisateur peut consulter le forum ou la page de clips
+sans quitter l’application.
+Lorsqu’un autre joueur rejoint une annonce,
+un chat temporaire est automatiquement ouvert afin de faciliter l’échange,
+puis se ferme à la fin de l’événement.
+
+Le parcours est volontairement court, logique et sans complexité inutile,
+afin de réduire toute friction.
+
+────────────────────────────
+MVP SCOPE
+────────────────────────────
+
+Le MVP (Minimum Viable Product) vise à valider le concept principal
+et le parcours utilisateur, sans intégrer de fonctionnalités avancées.
+
+Le périmètre du MVP comprend :
+– la navigation entre tous les écrans essentiels de l’application
+– l’affichage et la consultation des annonces de recherche de coéquipiers
+– une interaction basique permettant de simuler la création d’une annonce
+– un forum de questions et réponses
+– une page de profil utilisateur basique
+– une page de clips permettant la consultation et la publication de contenus
+
+Sont explicitement exclus du MVP :
+– tout système de backend ou de stockage de données persistantes
+– les algorithmes avancés de matchmaking
+– les systèmes de modération ou de signalement
+– les notifications push
+– la personnalisation avancée des profils
+
+Le MVP se concentre uniquement sur la démonstration claire
+de la valeur centrale du projet :
+faciliter la recherche de coéquipiers de manière simple et efficace.
